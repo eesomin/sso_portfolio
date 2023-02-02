@@ -5,11 +5,8 @@
 **→ 프로젝트 및 이력 정리 : 포트폴리오_github.pdf 봐주세요!!**
 
 1) 에이콘 아카데미 프로젝트 1   
-<img src="https://user-images.githubusercontent.com/37919866/216243879-8b881803-62c5-4f91-a4ec-6440f3af913d.png"  width="600" height="400"/>
-![image](https://user-images.githubusercontent.com/37919866/216243879-8b881803-62c5-4f91-a4ec-6440f3af913d.png width="350" height="600")
-![image](https://user-images.githubusercontent.com/37919866/216243927-9dc37fe7-ee5a-439f-b8f5-705ef9085c9a.png width="350" height="600")
-![image](https://user-images.githubusercontent.com/37919866/216243992-b953fb88-1058-44a0-adc5-d365ef541841.png width="350" height="600")
-![image](https://user-images.githubusercontent.com/37919866/216244047-69a498b3-f65d-4570-b455-93178e1d13a7.png width="350" height="600")
+<img src="https://user-images.githubusercontent.com/37919866/216243879-8b881803-62c5-4f91-a4ec-6440f3af913d.png"  width="500" height="300"/><img src="https://user-images.githubusercontent.com/37919866/216243927-9dc37fe7-ee5a-439f-b8f5-705ef9085c9a.png"  width="500" height="300"/>
+<img src="https://user-images.githubusercontent.com/37919866/216243992-b953fb88-1058-44a0-adc5-d365ef541841.png"  width="500" height="300"/><img src="https://user-images.githubusercontent.com/37919866/216244047-69a498b3-f65d-4570-b455-93178e1d13a7.png"  width="500" height="300"/>
 
 - 주제: OTT 플랫폼/컨텐츠 이용 패턴 및 이용률에 대한 탐색과 영화관 이용과의 관계 분석
 - 사용프로그램: Python, R studio
