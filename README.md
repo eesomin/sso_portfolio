@@ -20,7 +20,7 @@
 
 - 주제 : 양질의 컨텐츠 구성을 위한 적절한 해시태그 제안(이미지 분류를 위한 CNN 모델을 기반으로)
 - 사용프로그램: Python, R studio
-- 맡은 역할: 데이터 전처리(결측치 대체 및 제거, 스케일링, 데이터프레임화 등), 데이터 분석(상관분석, 회귀분석, T-TEST 등), 시각화
+- 맡은 역할: 데이터 수집(크롤링), 데이터 전처리(결측치 대체 및 제거, 스케일링, 데이터프레임화 등), 데이터 분석(상관분석, 회귀분석, T-TEST 등), 시각화
 - README링크: https://github.com/JeonDaehan/finale
 
 <img src="https://user-images.githubusercontent.com/37919866/216243625-f053722a-3b39-48ea-8feb-dc593b79646e.png"  width="400" height="250"/><img src="https://user-images.githubusercontent.com/37919866/216243713-718362a5-eca9-4173-82b1-63884100f845.png"  width="400" height="250"/>
